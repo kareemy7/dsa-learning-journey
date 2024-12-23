@@ -8,7 +8,6 @@ Each section folder contains:
 - Python implementation files
 - Notes folder with detailed explanations
 - Practice problems and solutions
-```
 
 ## Getting Started
 
